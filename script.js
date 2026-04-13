@@ -1,5 +1,5 @@
 const exerciseImages = {
-    'agachamento (com barra ou na smith)': {
+    'Agachamento (com Barra ou na Smith)': {
         image: 'exercises/Barbell-Squat.gif',
         description: 'Exercício fundamental para desenvolvimento de pernas e glúteos. Mantenha as costas retas e desça até 90 graus.'
     },
