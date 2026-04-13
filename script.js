@@ -1,4 +1,3 @@
-// Mapeamento de exercícios para imagens (GIFs)
 const exerciseImages = {
     'agachamento (com barra ou na smith)': {
         image: 'exercises/Barbell-Squat.gif',
