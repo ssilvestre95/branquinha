@@ -133,17 +133,37 @@ const exerciseImages = {
     'extensão de tríceps na polia': {
         image: 'exercises/Cable-Triceps-Pushdown.gif',
         description: 'Exercício para tríceps. Mantenha os cotovelos fixos e controle o movimento.'
-    }
     },
-    
+
+
     'belt squat': {
         image: 'exercises/Belt-Squat.gif',
         description: 'Exercício para pernas e glúteos sem sobrecarregar a coluna. Mantenha o core firme e controle o movimento.'
-    }
+    },
 
     'leg press unilateral': {
         image: 'exercises/Single-Leg-Press.gif',
         description: 'Exercício para pernas e glúteos. Mantenha o pé firme na plataforma e controle o movimento.'
+    },
+
+    'panturrilha na leg press': {
+        image: 'exercises/Leg-Press-Calf-Raise.gif',
+        description: 'Desenvolvimento das panturrilhas. Mantenha a amplitude completa e controle o movimento.'
+    },
+
+    'stiff unilateral com halter': {
+        image: 'exercises/Dumbbell-Single-Leg-Romanian-Deadlift',
+        description: 'Exercício para posterior de coxa e glúteos. Mantenha as costas retas e controle o movimento.'
+    },
+
+    'abdutora': {
+        image: 'exercises/Hip-Abduction.gif',
+        description: 'Exercício para abdutores. Mantenha o movimento controlado e evite usar o impulso.'
+    },
+
+    'adutora': {
+        image: 'exercises/Hip-Adduction.gif',
+        description: 'Exercício para adutores. Mantenha o movimento controlado e evite usar o impulso.'
     }
 
 };
