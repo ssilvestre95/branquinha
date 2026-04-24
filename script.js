@@ -5,6 +5,11 @@ const exerciseImages = {
         description: 'Exercício fundamental para desenvolvimento de pernas e glúteos. Mantenha as costas retas e desça até 90 graus.'
     },
 
+    'leg curl sentada': {
+        image: 'exercises/Seated-Leg-Curl.gif',
+        description: 'Exercício para posterior de coxa. Foque na contração no topo do movimento.'
+    },
+
     'extensora': {
         image: 'exercises/Leg-Extension.gif',
         description: 'Isolamento do quadríceps. Controle o movimento na descida e contraia no topo.'
