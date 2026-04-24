@@ -157,7 +157,7 @@ const exerciseImages = {
     },
 
     'stiff unilateral com halter': {
-        image: 'exercises/Dumbbell-Single-Leg-Romanian-Deadlift',
+        image: 'exercises/Dumbbell-Single-Leg-Romanian-Deadlift.gif',
         description: 'Exercício para posterior de coxa e glúteos. Mantenha as costas retas e controle o movimento.'
     },
 
