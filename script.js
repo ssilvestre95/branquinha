@@ -50,7 +50,7 @@ const exerciseImages = {
         description: 'Desenvolvimento de peitoral. Mantenha os cotovelos em um ângulo de 45 graus e controle a descida.'
     },
 
-    'remadaiso iso-lateral': {
+    'remada iso-lateral': {
         image: 'exercises/Iso-Lateral-Row.gif',
         description: 'Remada sentada para dorsais. Puxe com controle e evite balanços.'
     },
