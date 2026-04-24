@@ -131,7 +131,7 @@ const exerciseImages = {
     },
 
     'extensão de tríceps overhead na polia': {
-        image: 'exercises/Overhead-Cable-Triceps-Extension.gif',
+        image: 'exercises/Overhead-Triceps-Extension.gif',
         description: 'Exercício para tríceps. Mantenha os cotovelos próximos à cabeça e controle o movimento.'
     },
 
